@@ -1,5 +1,6 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import logo from './logo.svg'; // Adjust the path as necessary
+import './App.css'; // Make sure you have a corresponding CSS file
 
 function App() {
   return (
